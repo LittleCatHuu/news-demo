@@ -11,6 +11,6 @@ public class NewsApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        Bmob.initialize(this, "da5e0d2c65b90bd831fc7556c9b56356a35");
+        Bmob.initialize(this, "fa5e0d2c65b90bd831ac7556c9b56356a35");
     }
 }
